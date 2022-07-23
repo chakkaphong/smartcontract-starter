@@ -1,7 +1,5 @@
 # smartcontract-starter
 
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,7 +19,7 @@ this starter smartcontart with typscripts using hardhat generator [Read more abo
 - node >= 14 
 - npm >= 6 
 - typescript >= 4.0
-(we recommend to use yarn)
+- (we recommend to use yarn)
 
 
 ## Project skeleton
@@ -46,7 +44,7 @@ this starter smartcontart with typscripts using hardhat generator [Read more abo
 ```
 ### Development
 ```bash
-    yarn add typescript
+yarn add typescript
 ```
 
 ### Testing
